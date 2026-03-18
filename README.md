@@ -120,3 +120,4 @@ The encryption key is stored in `data/.secret.key` — keep this file safe.
 - On Android, Selenium is automatically disabled.
 - Headless mode toggle is hidden on Android (not applicable).
 - The app uses `https://clients3.google.com/generate_204` for internet checks — no OS commands like `ping` are used.
+# login_automation_sit
