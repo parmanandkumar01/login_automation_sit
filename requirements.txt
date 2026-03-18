@@ -1,0 +1,18 @@
+# ── Core UI ─────────────────────────────────────────────────────────────────
+kivy==2.3.0
+
+# ── Networking & Portal interaction ─────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+certifi
+
+# ── Encryption ──────────────────────────────────────────────────────────────
+cryptography>=42.0.0
+
+# ── Optional: Selenium desktop fallback ─────────────────────────────────────
+# Uncomment if you want Selenium support on Windows/Linux:
+# selenium>=4.18.0
+# webdriver-manager>=4.0.0
+
+# ── Build tools (not for Android) ───────────────────────────────────────────
+pyinstaller>=6.0          # for Windows .exe / Linux binary

@@ -1,0 +1,11 @@
+{
+  "router_ip": "10.50.0.1",
+  "username": "Z0FBQUFBQnBxRDIzVFZEOGdKaDlSQ1N2czV3VUlTcmdmRTRaRTZqV1pRckdRYThFUzBKbHdSMGhocEVVU1l3MlhMU3JKeW8tX3BjSUVKeThpMUY0Z20xWTdKRnppazZvX1E9PQ==",
+  "password": "Z0FBQUFBQnBxRDIzMGhiajFKS29Uck4xaXFGM25VZ1diQXk5ZUMwdDhJMlRzcENzejM3V0RzMU1hUFJqLU96ZWtxM0gyUm5ndHc3V2JBMHNQbWJwemlDNkZaWERId2tFN2c9PQ==",
+  "auto_login": true,
+  "auto_reconnect": true,
+  "check_interval": 5,
+  "headless_mode": true,
+  "start_on_boot": false,
+  "use_selenium": false
+}
